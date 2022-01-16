@@ -1,7 +1,7 @@
 # require 'nokogiri'
 require 'csv'
-require 'byebug'
-require 'pry-byebug'
+# require 'byebug'
+# require 'pry-byebug'
 require 'open-uri'
 
 uri = 'https://www.officepools.com/nhl/classic/298729/data-2019.10.11.07.08.08.178734.js'
